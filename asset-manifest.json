@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mahesh-portfolio/static/css/main.58fd231a.css",
+    "main.js": "/mahesh-portfolio/static/js/main.309ec4a4.js",
+    "static/js/453.8317f770.chunk.js": "/mahesh-portfolio/static/js/453.8317f770.chunk.js",
+    "static/media/vpn.png": "/mahesh-portfolio/static/media/vpn.e05f7daf7b2aada9bc3d.png",
+    "static/media/copeople.png": "/mahesh-portfolio/static/media/copeople.d67f7e541d45db45cf45.png",
+    "index.html": "/mahesh-portfolio/index.html",
+    "main.58fd231a.css.map": "/mahesh-portfolio/static/css/main.58fd231a.css.map",
+    "main.309ec4a4.js.map": "/mahesh-portfolio/static/js/main.309ec4a4.js.map",
+    "453.8317f770.chunk.js.map": "/mahesh-portfolio/static/js/453.8317f770.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58fd231a.css",
+    "static/js/main.309ec4a4.js"
+  ]
+}
